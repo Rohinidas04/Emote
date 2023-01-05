@@ -27,5 +27,6 @@ the canvas, switching between colors and changing the
 size of the drawing tool as they like.
 
 Modules used: pandas, requests, bs4, csv, colorthief, io
+Languages used: Python
 
 To open, run drawing.py
